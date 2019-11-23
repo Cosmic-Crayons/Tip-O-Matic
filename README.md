@@ -1,16 +1,16 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip-O-Matic*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tip-O-Matic** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Saraah Cooper**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] User can select "Feeling Generous?" to recieve a surprise tip amount grater than 20%
 
 ## Video Walkthrough 
 
@@ -34,6 +34,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+    -Trying to consistently use git when its something I am not used to.
+    -Trying to balance my UI (User Interface) design ambitions with my time and Swift skills 
 
 ## License
 
