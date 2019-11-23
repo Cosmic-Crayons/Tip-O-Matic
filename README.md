@@ -33,9 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-    -Trying to consistently use git when its something I am not used to.
-    -Trying to balance my UI (User Interface) design ambitions with my time and Swift skills 
+Describe any challenges encountered while building the app. (1)Trying to consistently use git when its something I am not used to. (2)Trying to balance my UI (User Interface) design ambitions with my time and Swift skills 
 
 ## License
 
